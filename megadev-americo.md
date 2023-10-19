@@ -1,6 +1,6 @@
-# Hello, I'm Americo Ortega,
+# Hello, I'm Americo Ortega, I'm 35 years old.
 ## I help developers to improve their skills while creating quality products.
-I'm a **Full-stack JavaScript Developer** from **Bolivia** living in Sweden.
+I'm a **Full-stack JavaScript Developer** from **Tarija - Bolivia** living in Sweden.
 Organizer of CSS Community Dev, and CSS Conf BOlivia.
 **Google Developer Expert**, Auth0 Ambassador, and Twitch Partner.
 
